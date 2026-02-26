@@ -114,13 +114,14 @@ generar_escenario()
 
 Esto ejecuta todo el script y construye la escena completa.
 
-
 Codigo fuente
+
 <img width="836" height="983" alt="image" src="https://github.com/user-attachments/assets/5cb23400-70b5-4614-b3a0-5bc05c3880ab" />
 <img width="900" height="973" alt="image" src="https://github.com/user-attachments/assets/a93d8a9c-57e8-497c-8373-e5aef90eade4" />
 <img width="788" height="331" alt="image" src="https://github.com/user-attachments/assets/6cfb466f-d258-4541-9635-4322a57285d2" />
 
 Vista de la curva 
+
 <img width="1152" height="796" alt="image" src="https://github.com/user-attachments/assets/f7f37a1b-59a5-47a6-b5f7-2dcf082fedce" />
 
 <img width="1156" height="805" alt="image" src="https://github.com/user-attachments/assets/7b1e51b1-5b2b-4e94-857d-ee7e4f3b412e" />
