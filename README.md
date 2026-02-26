@@ -28,7 +28,7 @@ Escenas tipo túnel o pasillo.
 Animaciones automáticas.
 Proyectos de simulación o visualización.
 
-⚙️ ¿CÓMO FUNCIONA?
+¿CÓMO FUNCIONA?
 1. Importación de librerías
    
 //import bpy
